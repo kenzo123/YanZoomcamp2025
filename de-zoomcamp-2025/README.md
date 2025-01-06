@@ -1,7 +1,10 @@
-# YanZoomcamp2025
+## Data Engineering Zoomcamp 2025 Cohort
 
-## Data Engineering Zoomcamp 2025 
-
+* [Pre-launch Q&A stream](TBA)
+* [Launch stream with course overview](TBA)
+* [Course Google calendar](https://calendar.google.com/calendar/?cid=ZXIxcjA1M3ZlYjJpcXU0dTFmaG02MzVxMG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+* [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing)
+* Course Playlist: Only 2024 Live videos & homeworks (TODO)
 
 
 [**Module 1: Introduction & Prerequisites**](01-docker-terraform/)
