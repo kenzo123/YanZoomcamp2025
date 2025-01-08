@@ -1,14 +1,13 @@
-# Data Engineering Zoomcamp 2025 
+# 🚀 Data Engineering Zoomcamp 2025 
 
-# # 🚀 Data Engineering Zoomcamp Project
 
 Welcome to my Data Engineering Zoomcamp repository! 
 This project documents my journey through the Zoomcamp, where I learned to build data pipelines, work with cloud tools, 
 and use modern data engineering technologies.
 
-# # #🗂️ Project Overview
-
-🐳 Docker + PostgreSQL
+ 🗂️ Project Overview
+<!-- 
+🐳 Docker + PostgreSQL 
 
     Setting up containers using Docker.
     Using PostgreSQL as a relational database for storing and querying data.
@@ -27,7 +26,7 @@ and use modern data engineering technologies.
 
     Automating cloud resource deployment using Terraform.
     Deploying virtual machines and other resources on Google Cloud.
-
+-->
 
 
 
@@ -87,6 +86,6 @@ More information [here](project.md)
 
 📧 Contact
 
-💼 Name : Yanick
+💼 Name : Yan
 ✉️ Email : [ Email ]
 🌐 LinkedIn : [Your LinkedIn Profile]
