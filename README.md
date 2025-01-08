@@ -1,6 +1,33 @@
-# YanZoomcamp2025
+# Data Engineering Zoomcamp 2025 
 
-## Data Engineering Zoomcamp 2025 
+# # 🚀 Data Engineering Zoomcamp Project
+
+Welcome to my Data Engineering Zoomcamp repository! 
+This project documents my journey through the Zoomcamp, where I learned to build data pipelines, work with cloud tools, 
+and use modern data engineering technologies.
+
+# # #🗂️ Project Overview
+
+🐳 Docker + PostgreSQL
+
+    Setting up containers using Docker.
+    Using PostgreSQL as a relational database for storing and querying data.
+
+📥 Data Ingestion
+
+    Python scripts for ingesting NYC taxi data.
+    Libraries used: pandas, sqlalchemy, and psycopg2.
+
+🌐 Docker Compose
+
+    Orchestrating multiple containers with docker-compose.yml.
+    Managing services like PostgreSQL and pgAdmin efficiently.
+
+☁️ Terraform + Google Cloud Platform
+
+    Automating cloud resource deployment using Terraform.
+    Deploying virtual machines and other resources on Google Cloud.
+
 
 
 
@@ -43,3 +70,23 @@
 [**Project**](project.md)
 
 More information [here](project.md)
+
+## 🛠️ Technologies Used
+
+| 🌟 **Technology**        | ✏️ **Description**                          |
+|--------------------------|---------------------------------------------|
+| **Docker**               | Application containerization.               |
+| **PostgreSQL**           | Relational database management.             |
+| **Python**               | Data ingestion and transformation scripts.  |
+| **Terraform**            | Infrastructure as Code (IaC).               |
+| **Google Cloud Platform**| Cloud resource deployment and management.   |
+
+
+
+
+
+📧 Contact
+
+💼 Name : Yanick
+✉️ Email : [ Email ]
+🌐 LinkedIn : [Your LinkedIn Profile]
